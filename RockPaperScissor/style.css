@@ -1,0 +1,40 @@
+*{
+    margin: 0;padding: 0;box-sizing: border-box;
+ }
+ .container{
+     width: 100vw;
+     height: 100vh ;
+     display:inline-block;
+     justify-content: center;
+     align-items: center;
+     color: white;
+     background-image: linear-gradient(black,purple);
+ }
+ .nav{
+     width: 100vw;
+     height: 5rem;
+     border: 2px solid whitesmoke;
+     padding: 2rem;
+     background-image: linear-gradient(black,purple);
+ }
+ .content{
+    width: 25rem;
+    height: 20rem;
+    padding:5rem ;
+    margin-top: 6rem;
+    margin-left: 20rem;
+    background-color: whitesmoke;
+    color: black;
+    border-radius: 50px;
+
+
+ }
+ button{
+     width: 4rem;
+     height: 2rem;
+     border: 1px solid hotpink;
+     background-color: purple;
+     background-image: linear-gradient(black,purple);
+     color: white;
+     border-radius: 5px;
+ }
